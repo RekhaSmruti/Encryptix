@@ -41,6 +41,7 @@ class grade{
         {
             System.out.println("Fail");
         }
-        
+
+        sc.close();
     }
 }
